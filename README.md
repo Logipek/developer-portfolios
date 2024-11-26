@@ -326,6 +326,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Herman Starikov](http://starikov.dev)
 - [Hoang Nguyen](https://hoangdesu.com)
 - [Hubert Kimani](https://hubertkimani.me)
+- [Hugo Damion](https://hugo-damion.me/) 
 - [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com)
 - [Hussein Sarea](https://ho011.vercel.app)
